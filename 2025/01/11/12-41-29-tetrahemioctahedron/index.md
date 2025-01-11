@@ -1,6 +1,6 @@
 ---
 title: tetrahemioctahedron
-share-description: 
+share-description: it is a tetrahemioctahedron
 image: https://raw.githubusercontent.com/PlayfulMathematician/vzome-sharing/refs/heads/main/2025/01/11/12-41-29-tetrahemioctahedron/tetrahemioctahedron.png
 layout: design
 ---
